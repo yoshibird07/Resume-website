@@ -1,0 +1,55 @@
+.paper{ 
+    background-color: white;
+    text-align: right 25 px;
+    width: 900px;
+    border-color: black;
+    border-style: solid;
+    margin: 0 auto;
+    
+    
+}
+
+.greenbox{
+    border: 5px solid rgb(52, 174, 52);
+    background-color: rgb(52, 174, 52);
+    width: 650px;
+    margin: 30px auto;
+    
+}
+
+.content-container{
+
+    width: 500px;
+    margin-left: 120px;
+}
+
+span{
+    color:rgb(111, 111, 111);
+    font-size: 16px;
+    font-weight: lighter;
+
+}
+
+h2{
+    color: rgb(52, 174, 52);
+}   
+
+.top-part{
+    margin-top: -20px;
+}
+
+ul{
+    margin-top: -20px;
+}
+
+.Bell{
+    margin-top: -5px;
+}
+
+.ST{
+    margin-top: -5px;
+}
+
+.SVCTE{
+    margin-top: -5px;
+}
